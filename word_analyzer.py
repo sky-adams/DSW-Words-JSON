@@ -16,5 +16,5 @@ for data in word_data:
 num_nouns = 0
 for data in word_data:
     if data['part of speech'] == 'noun':
-        num_nouns+=1 #num_nouns++ idn't valid Python syntax
+        num_nouns+=1 #num_nouns++ isn't valid Python syntax
 print(num_nouns)
