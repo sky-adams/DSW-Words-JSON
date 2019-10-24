@@ -1,0 +1,37 @@
+[
+	{
+		"word":"happy",
+		"part of speech": "adjective"
+		"definition": "delighted, pleased, or glad, as over a particular thing"
+	},
+	{
+		"word":"blithe",
+		"part of speech": "adjective"
+		"definition": "joyous, merry, or happy in disposition; glad; cheerful"
+	},
+	{
+		"word":"homograph",
+		"part of speech": "noun"
+		"definition": "a word of the same written form as another but of different meaning and usually origin, whether pronounced the same way or not"
+	},
+	{
+		"word":"enervate",
+		"part of speech": "verb"
+		"definition": "to deprive of force or strength; destroy the vigor of; weaken"
+	},
+	{
+		"word":"clout",
+		"part of speech": "noun"
+		"definition": "special advantage or power"
+	},
+	{
+		"word":"condone",
+		"part of speech": "verb"
+		"definition": "to overlook, approve, or allow"
+	},
+	{
+		"word":"postulate",
+		"part of speech": "verb"
+		"definition": "to assert"
+	}
+]
